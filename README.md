@@ -77,7 +77,7 @@ This project requires a plant dataset with the following structure:
 - Basic Python/PyTorch knowledge
 ### Step-by-Step Execution
 **1. Open in Google Colab**
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/yourusername/Plant-Classification-VGG16/blob/main/plant_classification_complete.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NCwHiX_dyb1w1srECZ4ukHRrZNELKPnj?usp=sharing)
 **2. Setup Runtime**
 ```python
 # Select GPU runtime in Colab
